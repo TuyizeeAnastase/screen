@@ -90,11 +90,11 @@
     <script>
         // Dummy data for demonstration
         const currencies = [
-            { country: "UNITED STATES DOLLAR", currency: "USD", buy: "1,301.4473", sell: "1.392.5206", flag: "./usa.png" },
-            { country: "EURO", currency: "EUR", buy: "1,369.3907", sell: "1,471.0424"flag: "./euro.png" },
-            { country: "BRITISH POUNDS", currency: "GBP", buy: "1,614.2835", sell: "1,720.2895", flag: "./british.png" },
-            { country: "CANADIAN DOLLARS", currency: "CAD", buy: "939.0606", sell: "1,000.7264", flag: "./canada.png" },
-            { country: "KENYAN SHILLINGS", currency: "KSH", buy: "9.8245", sell: "13.5255", flag: "./kenya.png" }
+            { country: "UNITED STATES DOLLAR", currency: "USD", buy: "1,301.4095", sell: "1.392.4802", flag: "./usa.png" },
+            { country: "EURO", currency: "EUR", buy: "1,362.1287", sell: "1,463.2413",flag: "./euro.png" },
+            { country: "BRITISH POUNDS", currency: "GBP", buy: "1,604.7748", sell: "1,710.1565", flag: "./british.png" },
+            { country: "CANADIAN DOLLARS", currency: "CAD", buy: "936.2682", sell: "997,7506", flag: "./canada.png" },
+            { country: "KENYAN SHILLINGS", currency: "KSH", buy: "9.8242", sell: "13.5251", flag: "./kenya.png" }
         ];
 
         // Function to populate table rows
